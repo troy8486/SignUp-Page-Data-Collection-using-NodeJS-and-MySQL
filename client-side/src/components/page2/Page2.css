@@ -1,0 +1,34 @@
+.container{
+    max-width: 70%;
+    margin-top:60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .row1{
+    padding-bottom:10px;
+  }
+  table , th , tr , td{
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:0;
+    text-align:center;
+    background-color: white;
+    color:black;
+    font-weight:bold;
+  }
+  caption{
+    margin-bottom:10px;
+    font-weight:bold;
+    color:black;
+    font-size:25px;
+  }
+  .col2{
+    background-color:#091d28;
+    color:white;
+  }
+  .row1 th{
+    color:black;
+    background-color:#ffffff;
+
+  }
